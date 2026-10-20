@@ -1,8 +1,8 @@
 # Ficha de la base de datos
 
-**Certamen 1 — Machine Learning**
+**Certamen 1: Machine Learning**
 
-**Nombre del proyecto:** FraudShield — Detección de fraudes en transacciones financieras
+**Nombre del proyecto:** FraudShield: Detección de fraudes en transacciones financieras
 
 ### 1. Identificación de la base de datos
 
