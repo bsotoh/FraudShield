@@ -1,0 +1,18 @@
+{
+  "proyecto": "FraudShield",
+  "fuente": "IEEE-CIS Fraud Detection",
+  "moneda_costos": "CLP (supuestos del proyecto)",
+  "c_fp_base": 5000,
+  "c_fn_base": 100000,
+  "umbral_cv_base": 0.05257149841913073,
+  "n_train_0": 455902,
+  "n_train_1": 16530,
+  "n_test_0": 113975,
+  "n_test_1": 4133,
+  "modelo_con_pesos": {
+    "tn": 106417,
+    "fp": 7558,
+    "fn": 668,
+    "tp": 3465
+  }
+}
