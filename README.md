@@ -9,7 +9,7 @@
 | Característica | Descripción |
 |---|---|
 | **Nombre del dataset** | IEEE-CIS Fraud Detection |
-| **Fuente** | Kaggle — IEEE Computational Intelligence Society |
+| **Fuente** | Kaggle, IEEE Computational Intelligence Society |
 | **Enlace** | https://www.kaggle.com/competitions/ieee-fraud-detection/data |
 | **Archivo utilizado** | `train_transaction.csv` |
 | **Número de registros** | 590.540 transacciones |
